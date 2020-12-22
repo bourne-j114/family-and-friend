@@ -1,0 +1,12 @@
+[submodule "rust-examples/rust-actix-example"]
+	path = rust-examples/rust-actix-example
+	url = https://github.com/bourne-j114/rust-actix-example.git
+[submodule "rust-examples/examples"]
+	path = rust-examples/examples
+	url = https://github.com/actix/examples.git
+[submodule "rust-examples/actix-web"]
+	path = rust-examples/actix-web
+	url = https://github.com/actix/actix-web.git
+[submodule "rust-examples/rust-web-example"]
+	path = rust-examples/rust-web-example
+	url = https://github.com/zupzup/rust-web-example.git
