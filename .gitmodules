@@ -10,3 +10,6 @@
 [submodule "rust-examples/rust-web-example"]
 	path = rust-examples/rust-web-example
 	url = https://github.com/zupzup/rust-web-example.git
+[submodule "svelte-examples/realworld"]
+	path = svelte-examples/realworld
+	url = https://github.com/sveltejs/realworld.git
